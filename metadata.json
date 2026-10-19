@@ -1,0 +1,6 @@
+{
+  "name": "AegisCrypt - Mensajería Privada E2EE & Asistente IA",
+  "description": "App de mensajería privada con cifrado de extremo a extremo (E2EE), almacenamiento local-first descentralizado (IndexedDB), sincronización P2P y Agente de IA asistente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
